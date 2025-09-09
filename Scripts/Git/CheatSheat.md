@@ -1,5 +1,21 @@
 # Git Cheatsheet
 
+# Working with Config
+
+```bash
+# List all Global config
+git config --global --list
+
+# Set Name to the name of the world's most okayest developer
+git config --global user.name "J.R. Kincaid"
+
+# Set Email to my ICloud email.
+git config --global user.email "devkincaid@icloud.com"
+
+# Set default Branch for new repos to main. (Main is the default for github)
+git config --global init.defaultBranch main
+```
+
 # New Repo
 
 ## Create a New Repo
