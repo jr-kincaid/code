@@ -1,0 +1,1 @@
+Get-History > 1.txt
