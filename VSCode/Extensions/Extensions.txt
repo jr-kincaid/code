@@ -1,6 +1,6 @@
 DavidAnson.vscode-markdownlint
 yzhang.markdown-all-in-one
-Nimda.deepdark-material
+salesforce.codey-midnight
 fosshaas.fontsize-shortcuts
 vscode-icons-team.vscode-icons
 dbaeumer.vscode-eslint

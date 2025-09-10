@@ -77,9 +77,10 @@
   },
   "[markdown]": {
     "editor.formatOnSave": true,
-    "editor.formatOnPaste": true
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "editor.wordWrap": "on",
   "editor.renderWhitespace": "all",
-  "workbench.colorTheme": "Deepdark Material Theme | Full Black Version"
+  "workbench.colorTheme": "Codey Midnight"
 }
