@@ -10,10 +10,12 @@
   "editor.linkedEditing": true,
   "editor.minimap.enabled": false,
   "editor.multiCursorModifier": "ctrlCmd",
+  "editor.renderWhitespace": "all",
   "editor.snippetSuggestions": "top",
   "editor.suggestSelection": "first",
   "editor.tabSize": 4,
   "editor.unicodeHighlight.invisibleCharacters": true,
+  "editor.wordWrap": "on",
   "emmet.showAbbreviationSuggestions": false,
   "eslint.enable": true,
   "eslint.validate": ["vue", "react", "typescript", "html", "javascript"],
@@ -23,13 +25,6 @@
   "git.autofetch": true,
   "git.openRepositoryInParentFolders": "never",
   "markdown.preview.fontSize": 14,
-  "screencastMode.keyboardOptions": {
-    "showCommandGroups": false,
-    "showCommands": false,
-    "showKeybindings": true,
-    "showKeys": false,
-    "showSingleEditorCursorMoves": true
-  },
   "search.exclude": {
     "**/*.code-search": true,
     "**/bower_components": true,
@@ -37,8 +32,11 @@
   },
   "search.useIgnoreFiles": false,
   "terminal.integrated.fontSize": 14,
+  "terminal.integrated.stickyScroll.enabled": true,
   "vsicons.dontShowNewVersionMessage": true,
   "window.zoomLevel": 1,
+  "workbench.activityBar.location": "top",
+  "workbench.colorTheme": "Codey Midnight",
   "workbench.editor.labelFormat": "medium",
   "workbench.editor.showTabs": "none",
   "workbench.iconTheme": "vscode-icons",
@@ -79,8 +77,5 @@
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "editor.wordWrap": "on",
-  "editor.renderWhitespace": "all",
-  "workbench.colorTheme": "Codey Midnight"
+  }
 }
