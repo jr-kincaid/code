@@ -17,5 +17,4 @@ bradlc.vscode-tailwindcss
 infarkt.css-to-jss
 paulmolluzzo.convert-css-in-js
 styled-components.vscode-styled-components
-Prisma.prisma
 bierner.markdown-mermaid
