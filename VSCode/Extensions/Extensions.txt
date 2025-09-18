@@ -19,3 +19,4 @@ paulmolluzzo.convert-css-in-js
 styled-components.vscode-styled-components
 bierner.markdown-mermaid
 dbaeumer.vscode-eslint
+ms-dotnettools.csharp
