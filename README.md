@@ -24,3 +24,24 @@ Go to your VS Code Command Palette (Ctrl+Shit+P) and search for "Preferences: Op
 ### Update Keyboard Shortcuts Settings
 
 Go to your VS Code Command Palette (Ctrl+Shit+P) and search for "Preferences: Open Keyboard Shortcuts (JSON)". Copy the ".\Keybindings\Keybindings.json" contents to this file.
+
+## References
+
+ All Amazon links in this repo are Affiliate links. This is an easy way to support me. Please consider buying the books through the title links below. I have also include an Amazon link with each book underneath the Author section.
+
+### [Tidy First?: A Personal Exercise in Empirical Software Design](https://amzn.to/421fbih)
+
+Author: Kent Beck, O'Reilly 2023.
+
+#### Amazon Affiliate Link: [https://amzn.to/421fbih](https://amzn.to/421fbih)
+
+#### Find Kent on the Web
+
+1. Website - [https://kentbeck.com/](https://kentbeck.com/)
+2. Substack - [https://tidyfirst.substack.com](https://tidyfirst.substack.com)
+3. X - [https://x.com/kentbeck](https://x.com/kentbeck)
+
+
+#### My Impressions of Tidy First
+
+Numerous books on programming are written in exhaustive tutorial format. Kent Beck will not waste paper or your time like that. Each of the 33 chapters weigh in on average three pages. With many coming in under a page. My approach to the book has been to read a chapter at the start of my professional development day with my morning coffee. I like books that serve content on small plates.
