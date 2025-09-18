@@ -18,5 +18,5 @@ infarkt.css-to-jss
 paulmolluzzo.convert-css-in-js
 styled-components.vscode-styled-components
 bierner.markdown-mermaid
-dbaeumer.vscode-eslint
+ms-vscode.PowerShell
 ms-dotnettools.csharp
