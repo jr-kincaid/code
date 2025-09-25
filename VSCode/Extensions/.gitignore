@@ -1,0 +1,2 @@
+# export-extensions.ps1 generates files ending in "-Backup.txt"
+*-Backup.txt
