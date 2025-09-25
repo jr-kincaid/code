@@ -41,7 +41,6 @@ Author: Kent Beck, O'Reilly 2023.
 2. Substack - [https://tidyfirst.substack.com](https://tidyfirst.substack.com)
 3. X - [https://x.com/kentbeck](https://x.com/kentbeck)
 
-
 #### My Impressions of Tidy First
 
 Numerous books on programming are written in exhaustive tutorial format. Kent Beck will not waste paper or your time like that. Each of the 33 chapters weigh in on average three pages. With many coming in under a page. My approach to the book has been to read a chapter at the start of my professional development day with my morning coffee. I like books that serve content on small plates.
