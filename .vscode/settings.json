@@ -3,5 +3,6 @@
         "commandlet",
         "Kata",
         "Samman"
-    ]
+    ],
+    "workbench.colorTheme": "Solarized Dark"
 }

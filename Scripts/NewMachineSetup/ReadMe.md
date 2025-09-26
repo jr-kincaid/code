@@ -1,6 +1,6 @@
 # Running Scripts in the Repository
 
-I recommend reading to understand a script before running on any machine. This repo is mostly written for my own notes. 
+I recommend reading to understand a script before running on any machine. This repo is mostly written for my own notes.
 
 For a full discussion please see [PowerShell Execution Policy Explained](https://thinkpowershell.com/powershell-execution-policy-explained/)
 
