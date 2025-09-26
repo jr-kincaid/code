@@ -25,6 +25,20 @@ Go to your VS Code Command Palette (Ctrl+Shit+P) and search for "Preferences: Op
 
 Go to your VS Code Command Palette (Ctrl+Shit+P) and search for "Preferences: Open Keyboard Shortcuts (JSON)". Copy the ".\Keybindings\Keybindings.json" contents to this file.
 
+## Links
+
+### Test Driven Development (TDD)
+
+#### Articles on TDD
+
+##### [Blog Entry: Canon TDD. Kent Beck. 2023.](https://tidyfirst.substack.com/p/canon-tdd)
+
+#### Kata Sites
+
+##### [Kata Log](https://kata-log.rocks/)
+
+##### [Samman Coaching](https://sammancoaching.org/kata_descriptions/)
+
 ## References
 
  All Amazon links in this repo are Affiliate links. This is an easy way to support me. Please consider buying the books through the title links below. I have also include an Amazon link with each book underneath the Author section.
